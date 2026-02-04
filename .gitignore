@@ -1,0 +1,4 @@
+.bundle/
+.vscode/
+__pycache__/
+*.log

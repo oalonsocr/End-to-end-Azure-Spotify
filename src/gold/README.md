@@ -68,6 +68,8 @@ Los datos de la capa Gold son consumidos por:
 Esta capa no está diseñada para transformaciones adicionales,
 solo para lectura analítica.
 
+<img width="1298" height="536" alt="synapse_analytics" src="https://github.com/user-attachments/assets/fd09a5a4-fe9e-40c9-b978-bb6f9082ed01" />
+
 ---
 
 ## 🔐 Gobierno y Calidad de Datos
